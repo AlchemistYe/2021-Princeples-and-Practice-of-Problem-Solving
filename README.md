@@ -1,6 +1,7 @@
 # 2021-Princeples-and-Practice-of-Problem-Solving
 Qt Version 6.1.3        
-Compiler msvc2019_64
+Compiler msvc2019_64 
+
 Pay attention that "gowalla.csv" is the data source
 
 Dos and don'ts
